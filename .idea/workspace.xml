@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8521603-2e8e-41b0-a392-9bfc1b5ea48e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/detail.html" afterDir="false" />
-    </list>
+    <list default="true" id="d8521603-2e8e-41b0-a392-9bfc1b5ea48e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,16 +34,25 @@
       <option name="presentableId" value="Default" />
       <updated>1590433922667</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1590775828598</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590775828598</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="339" y="27" width="744" height="741" key="CommitChangelistDialog2" timestamp="1590586058229">
+    <state x="339" y="27" width="744" height="741" key="CommitChangelistDialog2" timestamp="1590775827684">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="339" y="27" width="744" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1590586058229" />
+    <state x="339" y="27" width="744" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1590775827684" />
     <state x="228" y="31" key="SettingsEditor" timestamp="1590655485958">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
