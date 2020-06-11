@@ -14,16 +14,16 @@ Create SuperUser
 python manage.py createsuperuser
 
 #heroku hosting
-download heroku cli
-install dependancies
-pip install -r requirements.txt
-install gunicorn
-create procfile 
-install django-heroku
-git init
+download heroku cli,
+install dependancies,
+pip install -r requirements.txt,
+install gunicorn,
+create procfile ,
+install django-heroku,
+git init,
 git add .
 git commit "...."
-git push heroku master
+git push heroku master,
 
 
 After all these steps , you can start testing and developing this project.
